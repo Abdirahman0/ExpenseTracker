@@ -1,7 +1,7 @@
 # ShiftTracker 📝💰
 
 ## Overview
-ExpenseTracker is a web application designed to help users track their **shifts and pay** from multiple jobs. It allows users to log work hours, calculate earnings, and document payment details efficiently.
+ShiftTracker is a web application designed to help users track their **shifts and pay** from multiple jobs. It allows users to log work hours, calculate earnings, and document payment details efficiently.
 
 ## Features ✨
 - 📆 **Shift Tracking**: Log your work hours for different jobs.
@@ -18,4 +18,4 @@ ExpenseTracker is a web application designed to help users track their **shifts 
 ## How to Run Locally 🖥️
 1. **Clone the Repository:**
    ```sh
-   git clone git@github.com:Abdirahman0/ExpenseTracker.git
+   git clone git@github.com:Abdirahman0/ShiftTracker.git
