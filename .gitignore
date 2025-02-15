@@ -1,0 +1,13 @@
+# Ignore node_modules (React dependencies)
+node_modules/
+
+# Ignore Java build files (Spring Boot dependencies)
+target/
+*.jar
+*.war
+
+# Ignore environment and system files
+.env
+.DS_Store
+.idea/
+.vscode/
